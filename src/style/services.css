@@ -32,8 +32,8 @@
 .box{
     width: 250px;
     height: 200px;
-    background-color: rgb(235, 121, 148);
-    border: 2px solid rgb(184, 22, 87);
+    background-color: rgb(146, 141, 142);
+    border: 2px solid rgb(87, 84, 85);
     margin: 8px;
     display: flex;
     flex-direction: column;
